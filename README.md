@@ -1,4 +1,4 @@
-# Apresentação Marcos Alves 
+# Apresentação - Marcos Alves 
 
 Hello Word! Meu nome é Marcos Alves, um entusiasta da programação e apaixonado por tecnologia. Seja bem-vindo, bem-vinda ou bem-vindes. Este é o meu perfil no GitHub! Nele você encontrará alguns dos meus projetos pessoais e acadêmicos, experiências e aprendizados.
 
@@ -8,9 +8,15 @@ Hello Word! Meu nome é Marcos Alves, um entusiasta da programação e apaixonad
 - 🎓 Técnico em Desenvolvimento de Sistemas
 - 💼 Em busca da primeira oportunidade na área da Tecnologia
 
-## Contato
+## Ferramentas e Tecnologias
 
-Você pode entrar em contato comigo por meio dos seguintes canais:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />       
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+
+## Contato
 
 <div>
 <a href="https://www.instagram.com/marcos.alvves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
