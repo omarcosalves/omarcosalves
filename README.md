@@ -1,6 +1,6 @@
 # Apresentação - Marcos Alves 
 
-Hello Word! Meu nome é Marcos Alves, um entusiasta da programação e apaixonado por tecnologia. Seja bem-vindo, bem-vinda ou bem-vindes. Este é o meu perfil no GitHub! Nele você encontrará alguns dos meus projetos pessoais e acadêmicos, experiências e aprendizados.
+Hello World! Meu nome é Marcos Alves, um entusiasta da programação e apaixonado por tecnologia. Seja bem-vindo, bem-vinda ou bem-vindes. Este é o meu perfil no GitHub! Nele você encontrará alguns dos meus projetos pessoais e acadêmicos, experiências e aprendizados.
 
 ## Sobre Mim
 
@@ -23,11 +23,13 @@ Hello Word! Meu nome é Marcos Alves, um entusiasta da programação e apaixonad
 <a href="https://www.instagram.com/marcos.alvves" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/marcosalvs" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:marcos.alves05@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 </div>
+Fique à vontade para entrar em contato caso tenha alguma pergunta, sugestão ou apenas queira trocar experiências.
 
 <div>
 <a href="https://github.com/omarcosalves">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarcosalves&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omarcosalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+![Snake animation](https://github.com/omarcosalves/omarcosalves/blob/output/github-contribution-grid-snake.svg)
