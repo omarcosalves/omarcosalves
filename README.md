@@ -4,7 +4,7 @@ Hello World! Meu nome é Marcos Alves, um entusiasta da programação e apaixona
 
 ## Sobre Mim
 
-- 👨‍💻 Desenvolvedor Full Stack Jr
+- 👨‍💻 Engenheiro de Software Jr
 - 🎓 Técnico em Desenvolvimento de Sistemas
 - 💼 Em busca da primeira oportunidade na área da Tecnologia
 
